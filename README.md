@@ -1,3 +1,3 @@
 # This is a test repository
 
-## This is used for my testing
+## This will be my testing area, yep, public
