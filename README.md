@@ -1,3 +1,3 @@
 # This is a test repository
 
-## I use this for my own tests
+## This is used for my testing
